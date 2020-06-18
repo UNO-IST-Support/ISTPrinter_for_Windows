@@ -1,6 +1,7 @@
 # How to add IST Printer for Windows
 
 This guide is for Staff and Faculty on how to add the IST Printer.
+Note: YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK
 
 ### Step 1 
 At the bottom left of your computer screen there is the windows logo, directly to the right of the logo there is a magnifying glass. Please select the magnifying icon. 
