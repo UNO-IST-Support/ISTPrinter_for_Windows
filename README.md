@@ -10,25 +10,25 @@ At the bottom left of your computer screen there is the windows logo, directly t
 ### Step 2 
 Type the word printer. An option will appear at the type call, "Printers & Scanners". Please select this option by either double clicking or pressing enter on your keyboard. 
 
-![search](pictures/printers.png)
+![printers](pictures/printers.png)
 
 ### Step 3
 At the very top of the popup we just made appear. There is an option labeled, " Add a printer or scanner" please select this option.
 
-![search](pictures/add.png)
+![add](pictures/add.png)
 
 A list of printers will appear, please wait a moment for the list to finish appearing. Then disregard the options that appeared and scroll to where you find an option labeled, " The Printer that I want isn't listed" select that. 
 
-![search](pictures/not_listed.png)
+![not_listed](pictures/not_listed.png)
 
 ### Step 4
 A new popup should appear, please select the third option called," Select a shared printer by name". This will allow you to type in the box that was greyed out before
 Please type, " \\\printers.ist.unomaha.edu\ISTPrinter " into the section and press enter. 
 
-![search](pictures/select.png)
+![select](pictures/select.png)
 
 ### Step 5
 As long as you have permission to use the printer this will auto add the printer your device. Click next after it is done adding the printer. It will ask if you want to print a test page, that is up to you. When your done please press finish, you have sucessfully added the printer your device.
 
-![search](pictures/added.png)
+![added](pictures/added.png)
 
