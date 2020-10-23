@@ -24,12 +24,15 @@ A list of printers will appear, please wait a moment for the list to finish appe
 
 ### Step 4
 A new popup should appear, please select the third option called, "Select a shared printer by name". This will allow you to type in the box that was greyed out before
-Please type, " \\\printers.ist.unomaha.edu\ISTPrinter " into the section and press enter. 
+Please type, " \\\printers\ISTPrinter " into the section and press enter. 
 
 ![select](pictures/select.png)
 
 ### Step 5
 As long as you have permission to use the printer this will auto add the printer your device. Click next after it is done adding the printer. It will ask if you want to print a test page, that is up to you. When you are done, press finish. You have successfully added the printer your device.
 
-![added](pictures/added.png)
+![added](pictures/addedprinter.png)
+
+### Notes
+If this fails to connect, you can also try entering try to connect by pressing the windows key on your keyboard and the letter R at the same time, and entering the address " \\\printers ". This should bring up a window of printers. You will need to right click on ISTPrinter and click connect. If that also fails, please contact the Systems Office.
 
