@@ -1,6 +1,6 @@
-# How to add IST Printer for Windows
+# How to add the IST-Printer for Windows
 
-This guide is for Staff and Faculty on how to add the IST Printer. If you would like to see extra printing information, please follow this link: https://cist.unomaha.edu/printing  
+This guide is for Staff and Faculty on how to add the IST-Printer. If you would like to see extra printing information, please follow this link: https://cist.unomaha.edu/printing  
 Note: YOU MUST BE INSIDE THE BUILDING ON AN ETHERNET CONNECTION OR ON THE VPN WHEN USING WIFI OR FROM OFF CAMPUS FOR THIS TO WORK
 
 ## 4/13/2021 UPDATE: Please Delete the ISTPrinter from your device if you have it. Most machines should get it auto-installed after removing the old printer! To remove the old printer, please open "Device and Printers" (Can also be found in Control Panel), right click "ISTPrinter" and choose "Remove Device/Uninstall Device" and reboot your machine. If this doesn't work, please follow the instructions below.
