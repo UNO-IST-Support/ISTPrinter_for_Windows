@@ -28,7 +28,7 @@ A list of printers will appear, please wait a moment for the list to finish appe
 
 ### Step 4
 A new popup should appear, please select the third option called, "Select a shared printer by name". This will allow you to type in the box that was greyed out before
-Please type, " \\\oist-printers.unomaha.edu\IST-Printer " into the section and press enter. 
+Please type, `\\\oist-printers.unomaha.edu\IST-Printer` into the section and press enter. 
 
 ![select](pictures/selectPrinter.png)
 
